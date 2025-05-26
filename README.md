@@ -16,10 +16,6 @@ This project presents the design and simulation of a CMOS ring oscillator optimi
 | ROCSN           | 36.36           | 492.0                    |
 | SAPON-Enhanced  | 28.44           | 277.7                    |
 
-## 📄 Documents
-
-- [📘 Project Report (PDF)](./reportfinal.pdf)
-- [📊 Presentation (PPTX)](./presentation.pptx)
 
 ## 👨‍💻 Authors
 
